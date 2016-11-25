@@ -1,0 +1,9 @@
+*.png
+*.jpg
+!default.png
+!assets/*.png
+!assets/*.jpg
+
+config.php
+
+.DS_Store
